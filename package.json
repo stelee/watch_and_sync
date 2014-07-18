@@ -1,0 +1,16 @@
+{
+  "name": "watcher",
+  "version": "0.0.1",
+  "description": "watch the change of the file and sync to the destination",
+  "main": "index.js",
+  "dependencies" :
+  {
+  	"fs-extra" : "~0.10.0",
+  	"chokidar" : "~0.8.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "stelee",
+  "license": "MIT"
+}
